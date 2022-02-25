@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
@@ -89,3 +89,4 @@
 <img src="https://komarev.com/ghpvc/?username=PuspenduGit&&style=flat-square" align="left" />
 </div>  
   
+ -->
