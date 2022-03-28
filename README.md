@@ -80,7 +80,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuspenduGit)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Github Stats  
-![Puspendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuspenduGit&show_icons=true&theme=radical)
+![Puspendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuspenduGit&count_private=true&show_icons=true&theme=radical)
 
  
 
