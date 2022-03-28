@@ -79,7 +79,7 @@
 
 
 ## Github Stats  
-[![Puspendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuspenduGit)](https://github.com/anuraghazra/github-readme-stats)
+![Puspendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuspenduGit&count_private=true)
 
  
 
