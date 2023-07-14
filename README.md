@@ -12,7 +12,7 @@
 - I’m a good assisstant🤝   
   
 
-- ⚡ Fun fact: I use capslock over shift+ even for a letter😂  
+-  Fun fact: I use capslock over shift+ even for a letter😂  
   
 
 <br/>  
