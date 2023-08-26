@@ -68,7 +68,7 @@
 ![Puspendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuspenduGit&count_private=true&show_icons=true&theme=radical)
 <br/>  
 
-<div align="left">
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=PuspenduGit&&style=flat-square" align="left" />
 </div>  
 
