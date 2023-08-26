@@ -71,5 +71,27 @@
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=PuspenduGit&&style=flat-square" align="left" />
 </div>  
+
+<table><tr><td valign="top" width="50%">
+
+<img src="https://raw.githubusercontent.com/PuspenduGit/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://raw.githubusercontent.com/PuspenduGit/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>
+
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PuspenduGit&theme=city-lights&hide_border=true&date_format=%5BY.%5Dn.j&stroke=53DD25&currStreakNum=DD2727&dates=DD30A9" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PuspenduGit&theme=radical&hide_border=true" align="left" style="width: 100%" />
+
+</td></tr></table>  
   
 
